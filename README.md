@@ -2,7 +2,7 @@
 
 ![NPM Downloads](https://img.shields.io/npm/dw/link-preview-generator)
 ![NPM License](https://img.shields.io/npm/l/link-preview-generator)
-[![Twitter](https://img.shields.io/twitter/follow/Andrej_Gajdos.svg?style=social&label=@Andrej_Gajdos)](https://twitter.com/Andrej_Gajdos)
+[![Twitter](https://img.shields.io/twitter/follow/MilkhailA.svg?style=social&label=@MilkhailA)][(https://twitter.com/Andrej_Gajdos)](https://twitter.com/MilkhailA)
 
 > Get preview data (a title, description, image, domain name) from a url. Library uses puppeteer headless browser to scrape the web site.
 
@@ -81,4 +81,4 @@ If you want to run this library from within a Docker container:
 
 ## License
 
-MIT © [Andrej Gajdos](http://andrejgajdos.com)
+
